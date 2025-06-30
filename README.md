@@ -2,6 +2,10 @@
 
 An AI chatbot using Cloudflare Worker AI Model and Vercel AI SDK
 
+# Live demo:
+Live demo: [https://cloudflare-chatbot.pages.dev]
+
+
 # Installation guide
 
 1. Fork this project
